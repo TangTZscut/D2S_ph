@@ -12,7 +12,7 @@ This repository provides a full pipeline for predicting phage–host interaction
 ```
 .
 ├── Executor.py          # Execution pipeline for pairwise sequence analysis
-├── Similarity.py        # $D_{2}^{\ast}$ similarity functions
+├── Similarity.py        # \$D\_{2}^{\ast}\$ similarity functions
 ├── Data.py              # FullSequence class for sequence handling
 ├── run/                 # Output directory
 │   ├── data_pn/         # Input sequence pairs (JSON)
