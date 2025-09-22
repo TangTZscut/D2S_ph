@@ -1,4 +1,4 @@
-# D2Star_ph
+# D2Star_PH
 ---
 
 # Phage–Host Interaction Prediction with \$D\_{2}^{\ast}\$ Features
